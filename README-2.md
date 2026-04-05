@@ -48,20 +48,7 @@ The dataset includes the following features:
 
 The predictive model will focus on selecting the most informative features from the dataset to improve the accuracy of heart attack risk predictions. By analyzing and prioritizing key factors, the model aims to provide valuable information to identify individuals at higher risk of having a heart attack.
 
-## Contact
 
-
-Bayram Alper KILIÇ - [@alperrkilic](https://www.linkedin.com/in/bayram-alper-kilic/) - alperkilicbusiness@gmail.com  
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github1-url]
-[![Gmail][gmail-shield]][gmail1-url]
-
-
-Pelin KOZ - [@pelinkoz](https://github.com/pelinkoz) - pel0652@gmail.com
-
-[![LinkedIn][linkedin-shield]][linkedin2-url]
-[![Github][github-shield]][github2-url]
-[![Gmail][gmail-shield]][gmail2-url]
 
 
 <!-- Shields -->
